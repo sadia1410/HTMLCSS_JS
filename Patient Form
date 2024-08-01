@@ -1,0 +1,28 @@
+<!doctype html>
+  <html>
+<title>login form </title>
+  <div style="<b>;color:purple;margin-left:30%;border-style=dotted;width-30%;background-color:white;">
+    <h1 style="margin-left:18%;"> Patient's Detail Form </h1><br>
+    
+<form-style="margin-left:18%;color:purple;">
+  <label<b> Patient Name</b></label>
+  <br>
+  <input type="text" placeholder="Enter Patient Name" name="patient Name" required style="width-80%;"> <br>
+  <label<b> Patient Age</b></lable><br>
+    <input type="number"placeholder="Enter Patient's Age" name="Patient age"=required style="width-80%;"><br>
+    <label<b>Patients Gender</b></label><br>
+    <input type="Gender" placeholder ="Enter Gender" name="Gender" required style="width-80%;">
+    <label<b> City/Address </b></label> <br>
+  <input type="text"placeholder="Enter City/Address" name "City/Address" required style="width-80%;"><br>
+<label<b> Referred by </b></label><br>
+    <input type="text" placeholder="Optional" name="Referred by" required style=width-80%;"><br>
+<label<b> Medical History/Initial Diagnosis </b></label><br>
+    <input type="text" placeholder="Medical History/Initial Diagnosis" required style="width-100%;"><br>
+    <label<b> Treatment Plan </b></label><br>
+    <input type="text"placeholder="Suggested by Dr." required style="width-80%;"><br>
+<lable<b> Lab History </b></label>
+  <input type="text"placeholder="Any Lab history" required style=:width;8O%;"><br> 
+  <label<b></b></label><br>
+<input type="submit">
+  </div>
+</html>
